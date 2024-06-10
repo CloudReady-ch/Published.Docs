@@ -11,7 +11,9 @@ Et
 Présentation rapide de l’association X et de l’association Y.
 
 #### Description du projet de coopération
-* échange membership: Les 2 associations deviennent mutuellement membres l'une de l'autre: Avec annulation des cotisations respectives [ou compensation à définir]
+* échange membership: Les 2 associations deviennent mutuellement membres l'une de l'autre:
+  * Avec une simple annulation des cotisations respectives (mais inscrites dans la compta)
+  * [avec ou sans compensation à définir, ou autres modalités]
 * Les membres de X peuvent devenir membre de Y à [quelles conditions à ajuster ci-dessous]
   * Peut n'avoir aucun sens et être supprimée. (Ex. Faîtière, membres sociaux uniquement)
   * ou encore membres automatiquement (par ex pour une faitière)
