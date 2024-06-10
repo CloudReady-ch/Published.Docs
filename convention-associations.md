@@ -1,5 +1,5 @@
 # Convention de coopération [nomX-nomY]
-*Convention type modifiée inspirée du Guide de la coopération publié par le Val de Marne Service Proj'aide republié ici sous licence CC-BY-NC-SA par Pascal.KOTTE@ICT-a.ch creation 2019-10-22, update 2024-06-06*
+*Convention type modifiée inspirée du Guide de la coopération publié par le Val de Marne Service Proj'aide republié ici sous licence CC-BY-NC-SA par Pascal.KOTTE@ICT-a.ch creation 2019-10-22, update 2024-06-08*
 ## Entre les soussignées
 * Association X, dont le siège social est situé …, représentée par (prénom, nom) en sa qualité de (fonction), uid n°, D’une part,
 Et
