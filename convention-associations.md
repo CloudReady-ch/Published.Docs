@@ -77,10 +77,10 @@ La présente convention a pour objet de définir les engagements réciproques de
 L’association X et l’association Y s’engagent à se rencontrer ….. (indiquez une fréquence) entre dirigeants associatifs et ….. (indiquez une fréquence) avec l’ensemble du collectif.
 
 
-A l’issue du/des projet(s), ou de l'année, un bilan sera rédigé et validé collectivement.
+A l’issue du/des projet(s), ou de l'année (activités), un bilan sera rédigé et validé collectivement.
 
 ### Article 5 – Assurances
-Les associations disposent d’une assurance couvrant les risques liés au matériel et à l’activité nécessaires à la réalisation du projet.
+Les associations peuvent disposer d’une assurance couvrant les risques liés aux matériels et à l’activité nécessaires à la réalisation du projet, des activités.
 Assurance de l’association X :
 - N° de contrat
 - Nom de la compagnie d’assurances
@@ -96,7 +96,7 @@ La présente convention est conclue pour une durée de ... mois à compter de sa
 La présente convention pourra être révisée à tout moment, à la demande de l’association Y, ou de l’association X. Toute révision de la présente convention devra donner lieu à un avenant signé par chacune des parties.
 
 #### Nouveaux Projets/activités
-Les deux associations proposent systématiquement à l'autre les projets/activités envisagées, qui peuvent alors être ajoutés dans la liste de cette convention, ou pas, selon les décisions de l'autre association qui reste libre d'accepter ou refuser. Une fois la participation à un projet/activité accepté par l'autre association, ceci est ajouté dans cette convention mise à jour. L'engagement devient solide et contractualisé.
+Les deux associations poeuvent proposeer à l'autre les projets/activités envisagées, qui peuvent alors être ajoutés dans la liste de cette convention, ou pas, selon les décisions de l'autre association qui reste libre d'accepter ou refuser. Une fois la participation à un projet/activité accepté par l'autre association, ceci est ajouté dans cette convention mise à jour. L'engagement devient alors solide et contractualisé.
 
 ### Article 8 – Résiliation.
 En cas de non-respect par l'une des parties des engagements inscrits dans la présente convention, celle-ci pourra être résiliée de plein droit par l'autre partie après envoi d’un écrit valant mise en demeure (par courrier ou par courriel avec confirmation de sa réception).
